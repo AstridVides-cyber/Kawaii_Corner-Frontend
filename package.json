@@ -1,0 +1,9 @@
+{
+  "name": "Kawaii_Corner-Frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AstridVides-cyber/Kawaii_Corner-Frontend.git",
+  "author": "AstridVides-cyber <vkirito67@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
